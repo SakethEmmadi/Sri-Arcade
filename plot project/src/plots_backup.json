@@ -1,0 +1,507 @@
+{"plots": [
+{
+"id": 1, 
+"x": 200,
+"y": 150, 
+"width": 80,
+"height": 80,
+"status": "available",
+"shape": "square"
+}, 
+{
+"id": 2,
+"x": 180,
+"y": 80,
+"width": 70,
+"height": 50,
+"status": "booked",
+"shape": "rectangle"
+},
+{
+"id": 3,
+"x": 260,
+"y": 80,
+"width": 70,
+"height": 50,
+"status": "reserved",
+"shape": "circle"
+},
+{
+"id": 4,
+"x": 340,
+"y": 80,
+"width": 70,
+"height": 50,
+"status": "registered",
+"shape": "square"
+},
+{
+"id": 5,
+"x": 420,
+"y": 80,
+"width": 70,
+"height": 50, 
+"status": "available",
+"shape": "rectangle"
+},
+{
+"id": 6,
+"x": 500,
+"y": 80,
+"width": 70,
+"height": 50, 
+"status": "booked",
+"shape": "circle"
+}, 
+{"id": 7, 
+"x": 580, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "reserved",
+"shape": "square"
+}, 
+{
+"id": 8, 
+"x": 660, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "registered",
+"shape": "rectangle"
+}, 
+{
+"id": 9, 
+"x": 740, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "available",
+"shape": "circle"
+}, 
+{
+"id": 10, 
+"x": 820, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "booked",
+"shape": "square"
+}, 
+{
+"id": 11,
+"x": 900, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "reserved",
+"shape": "rectangle"
+},
+{
+"id": 12, 
+"x": 980, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "registered"
+}, 
+{
+"id": 13, 
+"x": 1060, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{"id": 14, 
+"x": 1140, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{
+"id": 15, 
+"x": 1220, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{
+"id": 16, 
+"x": 1300, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "registered"
+}, 
+{
+"id": 17, 
+"x": 1380, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{
+"id": 18, 
+"x": 1460, 
+"y": 80, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{"id": 19, 
+"x": 100, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{"id": 20, 
+"x": 180, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "registered"
+}, 
+{"id": 21, 
+"x": 260, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "available"}, 
+{
+"id": 22, 
+"x": 340, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{
+"id": 23,
+"x": 420,
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{
+"id": 24, 
+"x": 500, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "registered"
+}, 
+{
+"id": 25, 
+"x": 580, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{
+"id": 26, 
+"x": 660, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{
+"id": 27, 
+"x": 740, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"}, 
+{
+"id": 28, 
+"x": 820, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "registered"
+}, 
+{
+"id": 29, 
+"x": 900, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{
+"id": 30, 
+"x": 980, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{
+"id": 31, 
+"x": 1060, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{
+"id": 32, 
+"x": 1140, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "registered"
+}, 
+{
+"id": 33, 
+"x": 1220, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{
+"id": 34, 
+"x": 1300, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{
+"id": 35, 
+"x": 1380, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{
+"id": 36, 
+"x": 1460, 
+"y": 140, 
+"width": 70, 
+"height": 50, 
+"status": "registered"}, 
+{
+"id": 37, 
+"x": 100, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{
+"id": 38, 
+"x": 180, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{
+"id": 39, 
+"x": 260, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{
+"id": 40, 
+"x": 340, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "registered"
+}, 
+{
+"id": 41, 
+"x": 420, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{"id": 42, 
+"x": 500, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{
+"id": 43, 
+"x": 580, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{
+"id": 44, 
+"x": 660, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "registered"
+}, 
+{
+"id": 45, 
+"x": 740, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{
+"id": 46, 
+"x": 820, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{
+"id": 47, 
+"x": 900, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{
+"id": 48, 
+"x": 980, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "registered"
+}, 
+{
+"id": 49, 
+"x": 1060, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{
+"id": 50, 
+"x": 1140, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{
+"id": 51, 
+"x": 1220, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{
+"id": 52, 
+"x": 1300, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "registered"
+}, 
+{
+"id": 53, 
+"x": 1380, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{
+"id": 54, 
+"x": 1460, 
+"y": 200, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{
+"id": 55, 
+"x": 100, 
+"y": 260, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{
+"id": 56, 
+"x": 180, 
+"y": 260, 
+"width": 70, 
+"height": 50, 
+"status": "registered"
+}, 
+{
+"id": 57, 
+"x": 260, 
+"y": 260, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{
+"id": 58, 
+"x": 340, 
+"y": 260, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{
+"id": 59, 
+"x": 420, 
+"y": 260, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{
+"id": 60, 
+"x": 500, 
+"y": 260, 
+"width": 70, 
+"height": 50, 
+"status": 
+"registered"
+}, 
+{"id": 61, 
+"x": 580, 
+"y": 260, 
+"width": 70, 
+"height": 50, 
+"status": "available"
+}, 
+{
+"id": 62, 
+"x": 660, 
+"y": 260, 
+"width": 70, 
+"height": 50, 
+"status": "booked"
+}, 
+{"id": 63, 
+"x": 740, 
+"y": 260, 
+"width": 70, 
+"height": 50, 
+"status": "reserved"
+}, 
+{"id": 64, "x": 820, "y": 260, "width": 70, "height": 50, "status": "registered"}, {"id": 65, "x": 900, "y": 260, "width": 70, "height": 50, "status": "available"}, {"id": 66, "x": 980, "y": 260, "width": 70, "height": 50, "status": "booked"}, {"id": 67, "x": 1060, "y": 260, "width": 70, "height": 50, "status": "reserved"}, {"id": 68, "x": 1140, "y": 260, "width": 70, "height": 50, "status": "registered"}, {"id": 69, "x": 1220, "y": 260, "width": 70, "height": 50, "status": "available"}, {"id": 70, "x": 1300, "y": 260, "width": 70, "height": 50, "status": "booked"}, {"id": 71, "x": 1380, "y": 260, "width": 70, "height": 50, "status": "reserved"}, {"id": 72, "x": 1460, "y": 260, "width": 70, "height": 50, "status": "registered"}, {"id": 73, "x": 100, "y": 320, "width": 70, "height": 50, "status": "available"}, {"id": 74, "x": 180, "y": 320, "width": 70, "height": 50, "status": "booked"}, {"id": 75, "x": 260, "y": 320, "width": 70, "height": 50, "status": "reserved"}, {"id": 76, "x": 340, "y": 320, "width": 70, "height": 50, "status": "registered"}, {"id": 77, "x": 420, "y": 320, "width": 70, "height": 50, "status": "available"}, {"id": 78, "x": 500, "y": 320, "width": 70, "height": 50, "status": "booked"}, {"id": 79, "x": 580, "y": 320, "width": 70, "height": 50, "status": "reserved"}, {"id": 80, "x": 660, "y": 320, "width": 70, "height": 50, "status": "registered"}, {"id": 81, "x": 740, "y": 320, "width": 70, "height": 50, "status": "available"}, {"id": 82, "x": 820, "y": 320, "width": 70, "height": 50, "status": "booked"}, {"id": 83, "x": 900, "y": 320, "width": 70, "height": 50, "status": "reserved"}, {"id": 84, "x": 980, "y": 320, "width": 70, "height": 50, "status": "registered"}, {"id": 85, "x": 1060, "y": 320, "width": 70, "height": 50, "status": "available"}, {"id": 86, "x": 1140, "y": 320, "width": 70, "height": 50, "status": "booked"}, {"id": 87, "x": 1220, "y": 320, "width": 70, "height": 50, "status": "reserved"}, {"id": 88, "x": 1300, "y": 320, "width": 70, "height": 50, "status": "registered"}, {"id": 89, "x": 1380, "y": 320, "width": 70, "height": 50, "status": "available"}, {"id": 90, "x": 1460, "y": 320, "width": 70, "height": 50, "status": "booked"}, {"id": 91, "x": 100, "y": 380, "width": 70, "height": 50, "status": "reserved"}, {"id": 92, "x": 180, "y": 380, "width": 70, "height": 50, "status": "registered"}, {"id": 93, "x": 260, "y": 380, "width": 70, "height": 50, "status": "available"}, {"id": 94, "x": 340, "y": 380, "width": 70, "height": 50, "status": "booked"}, {"id": 95, "x": 420, "y": 380, "width": 70, "height": 50, "status": "reserved"}, {"id": 96, "x": 500, "y": 380, "width": 70, "height": 50, "status": "registered"}, {"id": 97, "x": 580, "y": 380, "width": 70, "height": 50, "status": "available"}, {"id": 98, "x": 660, "y": 380, "width": 70, "height": 50, "status": "booked"}, {"id": 99, "x": 740, "y": 380, "width": 70, "height": 50, "status": "reserved"}, {"id": 100, "x": 820, "y": 380, "width": 70, "height": 50, "status": "registered"}, {"id": 101, "x": 900, "y": 380, "width": 70, "height": 50, "status": "available"}, {"id": 102, "x": 980, "y": 380, "width": 70, "height": 50, "status": "booked"}, {"id": 103, "x": 1060, "y": 380, "width": 70, "height": 50, "status": "reserved"}, {"id": 104, "x": 1140, "y": 380, "width": 70, "height": 50, "status": "registered"}, {"id": 105, "x": 1220, "y": 380, "width": 70, "height": 50, "status": "available"}, {"id": 106, "x": 1300, "y": 380, "width": 70, "height": 50, "status": "booked"}, {"id": 107, "x": 1380, "y": 380, "width": 70, "height": 50, "status": "reserved"}, {"id": 108, "x": 1460, "y": 380, "width": 70, "height": 50, "status": "registered"}, {"id": 109, "x": 100, "y": 440, "width": 70, "height": 50, "status": "available"}, {"id": 110, "x": 180, "y": 440, "width": 70, "height": 50, "status": "booked"}, {"id": 111, "x": 260, "y": 440, "width": 70, "height": 50, "status": "reserved"}, {"id": 112, "x": 340, "y": 440, "width": 70, "height": 50, "status": "registered"}, {"id": 113, "x": 420, "y": 440, "width": 70, "height": 50, "status": "available"}, {"id": 114, "x": 500, "y": 440, "width": 70, "height": 50, "status": "booked"}, {"id": 115, "x": 580, "y": 440, "width": 70, "height": 50, "status": "reserved"}, {"id": 116, "x": 660, "y": 440, "width": 70, "height": 50, "status": "registered"}, {"id": 117, "x": 740, "y": 440, "width": 70, "height": 50, "status": "available"}, {"id": 118, "x": 820, "y": 440, "width": 70, "height": 50, "status": "booked"}, {"id": 119, "x": 900, "y": 440, "width": 70, "height": 50, "status": "reserved"}, {"id": 120, "x": 980, "y": 440, "width": 70, "height": 50, "status": "registered"}, {"id": 121, "x": 1060, "y": 440, "width": 70, "height": 50, "status": "available"}, {"id": 122, "x": 1140, "y": 440, "width": 70, "height": 50, "status": "booked"}, {"id": 123, "x": 1220, "y": 440, "width": 70, "height": 50, "status": "reserved"}, {"id": 124, "x": 1300, "y": 440, "width": 70, "height": 50, "status": "registered"}, {"id": 125, "x": 1380, "y": 440, "width": 70, "height": 50, "status": "available"}, {"id": 126, "x": 1460, "y": 440, "width": 70, "height": 50, "status": "booked"}, {"id": 127, "x": 100, "y": 500, "width": 70, "height": 50, "status": "reserved"}, {"id": 128, "x": 180, "y": 500, "width": 70, "height": 50, "status": "registered"}, {"id": 129, "x": 260, "y": 500, "width": 70, "height": 50, "status": "available"}, {"id": 130, "x": 340, "y": 500, "width": 70, "height": 50, "status": "booked"}, {"id": 131, "x": 420, "y": 500, "width": 70, "height": 50, "status": "reserved"}, {"id": 132, "x": 500, "y": 500, "width": 70, "height": 50, "status": "registered"}, {"id": 133, "x": 580, "y": 500, "width": 70, "height": 50, "status": "available"}, {"id": 134, "x": 660, "y": 500, "width": 70, "height": 50, "status": "booked"}, {"id": 135, "x": 740, "y": 500, "width": 70, "height": 50, "status": "reserved"}, {"id": 136, "x": 820, "y": 500, "width": 70, "height": 50, "status": "registered"}, {"id": 137, "x": 900, "y": 500, "width": 70, "height": 50, "status": "available"}, {"id": 138, "x": 980, "y": 500, "width": 70, "height": 50, "status": "booked"}, {"id": 139, "x": 1060, "y": 500, "width": 70, "height": 50, "status": "reserved"}, {"id": 140, "x": 1140, "y": 500, "width": 70, "height": 50, "status": "registered"}, {"id": 141, "x": 1220, "y": 500, "width": 70, "height": 50, "status": "available"}, {"id": 142, "x": 1300, "y": 500, "width": 70, "height": 50, "status": "booked"}, {"id": 143, "x": 1380, "y": 500, "width": 70, "height": 50, "status": "reserved"}, {"id": 144, "x": 1460, "y": 500, "width": 70, "height": 50, "status": "registered"}, {"id": 145, "x": 100, "y": 560, "width": 70, "height": 50, "status": "available"}, {"id": 146, "x": 180, "y": 560, "width": 70, "height": 50, "status": "booked"}], "statusColors": {"available": "#4CAF50", "booked": "#F44336", "reserved": "#2196F3", "registered": "#FF9800"}, "statusLabels": {"available": "Available", "booked": "Booked", "reserved": "Reserved For Later", "registered": "Registered"}}
